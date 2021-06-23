@@ -3,5 +3,20 @@ code for high-volume businesses.
 - Team player with a can-do attitude
 - Phenomenal time management skills
 - Strong user focus.
+- Expert in technologies like:
+  - Docker and containers in Linux
+  - Python
+  - Django 
+  - Dot Net core in Linux
+  - MVC
+  - ASP.NET
+  - C#
+  - LINQ
+  - Bootstrap
+  - AngularJS 
+  - Ms-SQL 
+  - PHP 
+  - Drupal 
+  - MySQL
 
 - 📫 raoofarakkal@gmail.com
